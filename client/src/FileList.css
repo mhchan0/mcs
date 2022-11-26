@@ -1,0 +1,22 @@
+li.file:hover {
+    background-color: lightgray !important;
+}
+
+span.option:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+i.bi-folder-plus:hover {
+    color: blue;
+    cursor: pointer;
+}
+
+i.bi-folder-x:hover {
+    color: red;
+    cursor: pointer;
+}
+
+li.newfolder {
+    display: none !important;
+}
